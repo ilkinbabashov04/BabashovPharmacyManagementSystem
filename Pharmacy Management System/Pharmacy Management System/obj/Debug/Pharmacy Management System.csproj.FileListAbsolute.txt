@@ -1,0 +1,20 @@
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Dashboard.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB.mdf
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB_log.ldf
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Customers.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Manufacturer.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicines.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Sellers.resources
+C:\Users\Babashov\source\repos\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Selling.resources
